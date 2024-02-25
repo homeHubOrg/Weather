@@ -1,0 +1,11 @@
+{
+    "name": "Météo du jour",
+    "author": "Luckyluka17",
+    "colors": {
+        "text": "white",
+        "background_type": "image",
+        "background": "grey"
+    },
+    "description": "Obtenez la météo et les prévisions sur votre espace homeHub.",
+    "port": 5501
+}
